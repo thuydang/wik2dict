@@ -29,7 +29,8 @@ import bz2, gzip
 from sets import Set
 
 import pprint
-import elementtree.ElementTree as ET
+#import elementtree.ElementTree as ET
+import xml.etree.ElementTree as ET
 
 # wik2dict modules
 
